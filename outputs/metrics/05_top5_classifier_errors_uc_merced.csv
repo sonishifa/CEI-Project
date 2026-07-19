@@ -1,0 +1,6 @@
+image_path,filename,uc_class_name,class_name,class_idx,true_idx,pred_idx,confidence,true_class,pred_class,is_correct
+/kaggle/input/datasets/abdulhasibuddin/uc-merced-land-use-dataset/UCMerced_LandUse/Images/mobilehomepark/mobilehomepark60.tif,mobilehomepark60.tif,mobilehomepark,Residential,7,7,4,1.0,Residential,Industrial,False
+/kaggle/input/datasets/abdulhasibuddin/uc-merced-land-use-dataset/UCMerced_LandUse/Images/river/river53.tif,river53.tif,river,River,8,8,1,0.9999908,River,Forest,False
+/kaggle/input/datasets/abdulhasibuddin/uc-merced-land-use-dataset/UCMerced_LandUse/Images/forest/forest62.tif,forest62.tif,forest,Forest,1,1,7,0.9999441,Forest,Residential,False
+/kaggle/input/datasets/abdulhasibuddin/uc-merced-land-use-dataset/UCMerced_LandUse/Images/chaparral/chaparral62.tif,chaparral62.tif,chaparral,HerbaceousVegetation,2,2,1,0.9998666,HerbaceousVegetation,Forest,False
+/kaggle/input/datasets/abdulhasibuddin/uc-merced-land-use-dataset/UCMerced_LandUse/Images/agricultural/agricultural23.tif,agricultural23.tif,agricultural,AnnualCrop,0,0,7,0.99947375,AnnualCrop,Residential,False

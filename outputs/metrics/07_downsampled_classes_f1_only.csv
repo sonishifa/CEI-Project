@@ -1,0 +1,3 @@
+class_name,balanced_original,imbalanced_no_mitigation,imbalanced_weighted_loss,was_downsampled
+Pasture,0.96398891966759,0.9732016925246827,0.9232804232804233,True
+PermanentCrop,0.7857142857142857,0.7535853976531942,0.7270642201834863,True

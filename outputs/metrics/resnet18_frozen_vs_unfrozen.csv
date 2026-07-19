@@ -1,0 +1,3 @@
+setting,val_loss,val_accuracy,val_macro_f1
+Phase 1 — Frozen backbone (3 epochs),0.9143021611341251,0.7037568796362766,0.6982563202507381
+Phase 2 — Unfrozen layer3+layer4 (5 epochs),0.4738278703652206,0.8880114860014358,0.8860894632928076

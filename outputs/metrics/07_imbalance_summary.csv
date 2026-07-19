@@ -1,0 +1,4 @@
+setting,val_accuracy,val_macro_f1
+Balanced original ResNet18,0.8880114860014358,0.8860894632928076
+"Imbalanced, no mitigation",0.8951902368987796,0.8932332232854069
+Imbalanced + weighted loss,0.8832256520698731,0.8810446851695666

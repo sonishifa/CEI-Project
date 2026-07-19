@@ -1,0 +1,11 @@
+class_name,original_train_count,imbalanced_train_count
+AnnualCrop,2092,2092
+Forest,2052,2052
+HerbaceousVegetation,2125,2125
+Highway,1633,1633
+Industrial,1728,1728
+Pasture,1291,258
+PermanentCrop,1642,328
+Residential,2063,2063
+River,1615,1615
+SeaLake,2059,2059

@@ -1,0 +1,11 @@
+class_name,imbalanced_train_count,loss_weight
+AnnualCrop,2092,0.7625717
+Forest,2052,0.7774367
+HerbaceousVegetation,2125,0.7507294
+Highway,1633,0.97691363
+Industrial,1728,0.92320603
+Pasture,258,6.1833334
+PermanentCrop,328,4.8637195
+Residential,2063,0.77329135
+River,1615,0.98780185
+SeaLake,2059,0.77479357

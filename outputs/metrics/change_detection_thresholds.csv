@@ -1,0 +1,5 @@
+mode,threshold,tpr,fpr,auc
+balanced_youden,0.33299720287323,0.909,0.059,
+high_recall,0.3376716375350952,0.9,0.052,
+high_precision,0.34174644947052,0.897,0.05,
+roc_auc,,,,0.979067

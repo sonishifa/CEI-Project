@@ -1,0 +1,2 @@
+model,input_resolution,best_epoch,best_val_loss,validation_accuracy,validation_macro_f1,test_accuracy,test_macro_f1
+BaselineCNN,64x64,10,0.8333676401779794,0.7111749222301986,0.706674205413102,0.754257907542579,0.7367635470935511
