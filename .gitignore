@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+checkpoints/baseline_cnn.pt 
+checkpoints/resnet18_phase1.pt 
+checkpoints/resnet18_imbalanced_no_mitigation.pt
+checkpoints/resnet18_imbalanced_weighted_loss.pt
+outputs/embeddings/finetuned_embeddings.npy
+outputs/embeddings/imagenet_embeddings.npy 
